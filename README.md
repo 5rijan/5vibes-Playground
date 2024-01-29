@@ -8,7 +8,7 @@ Welcome to 5vibes, a command-line playground for music enthusiasts and just my c
 
 ## Inspiration
 
-Design inspired by the creativity and innovation of [Forrest Knight](https://www.youtube.com/c/ForrestKnight).
+Design inspired by the creativity and innovation of [Forrest Knight]([https://www.youtube.com/@fknight]).
 
 ## Features
 
@@ -16,6 +16,11 @@ Design inspired by the creativity and innovation of [Forrest Knight](https://www
 - **Playlist Player**: Play songs from the downloaded viral song list directly through the terminal.
 - **Script Showcase**: Explore and utilize various scripts conveniently gathered in one place.
 - **Command-Line Magic**: Enjoy a terminal-like interface for executing commands and accessing features.
+
+## Screenshots
+<img width="1470" alt="Screenshot 2024-01-30 at 2 06 28 am" src="https://github.com/5rijan/5vibesPlayground/assets/87299199/0777b39e-ad7d-46ad-bb37-7899f7485e69">
+
+
 
 ## Getting Started
 
