@@ -8,6 +8,7 @@ var git = 0;
 var pw = false;
 let pwd = false;
 var commands = [];
+var password = "spotifyme";
 
 
 const countries = ['world','algeria','argentina','argentina/buenos-aires', 'australia','australia/adelaide','australia/brisbane','australia/melbourne','australia/perth','australia/sydney',
